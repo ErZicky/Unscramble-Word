@@ -1,7 +1,7 @@
 # Unscramble-Word
 A simple c++ script to resolve scrambled words in english
 
-The system makes use of the conversion char -> int of c++ to makes the comparison and deduce the word.
+The system makes use of the conversion char -> int of c++ to makes the comparisons and deduce the word.
 
 The system makes use of an english dictionary (named dictionary.txt).
 
