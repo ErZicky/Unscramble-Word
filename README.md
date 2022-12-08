@@ -5,7 +5,7 @@ The system makes use of the conversion char -> int of c++ to makes the compariso
 
 The system makes use of an english dictionary (named dictionary.txt).
 
-###Note:
+## Note:
 * Sometimes some scrambled words might be picked up as other words that came up first for example:
 
 inserting "rca" to find "car" will instead output again "rca" as is a word in the dictionary
